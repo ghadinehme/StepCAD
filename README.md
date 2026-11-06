@@ -91,7 +91,7 @@ the STEP files, and coverage is the share of programs with at least one instance
 ## Code
 
 ```bash
-git clone https://github.com/ghadinehme/StepCAD && cd stepcad-v1
+git clone https://github.com/ghadinehme/StepCAD && cd StepCAD
 pip install -r requirements.txt
 hf auth login   # weights: huggingface.co/DeCoDELab/StepCAD (downloaded on first run)
 python infer.py --input part.stl --out out/   # or a directory of meshes
