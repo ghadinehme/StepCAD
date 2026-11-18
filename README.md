@@ -5,7 +5,7 @@
 > Ghadi Nehme<sup>1</sup>, Faez Ahmed<sup>1</sup> <br>
 > <sup>1</sup>Massachusetts Institute of Technology
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-b31b1b.svg)](https://arxiv.org/pdf/2610.03799) [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://ghadinehme.com/stepcad.github.io/) [![Model](https://img.shields.io/badge/%F0%9F%A4%97%20Model-StepCAD-yellow)](https://huggingface.co/DeCoDELab/StepCAD) [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-ARCADE-orange)](https://huggingface.co/datasets/DeCoDELab/ARCADE)
+[![Paper](https://img.shields.io/badge/Paper-PDF-b31b1b.svg)](https://arxiv.org/pdf/2610.03799) [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://ghadinehme.com/stepcad.github.io/) [![Video](https://img.shields.io/badge/Video-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=AdfTSnQpQqs) [![Model](https://img.shields.io/badge/%F0%9F%A4%97%20Model-StepCAD-yellow)](https://huggingface.co/DeCoDELab/StepCAD) [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-ARCADE-orange)](https://huggingface.co/datasets/DeCoDELab/ARCADE)
 
 </div>
 
@@ -30,6 +30,16 @@ no mechanism for refining what they generate. StepCAD instead combines two compl
 
 To train the policy, we introduce **ARCADE**, a dataset of 3.5M executable CAD programs with diverse operations and
 long construction sequences.
+
+---
+
+## Video
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=AdfTSnQpQqs">
+    <img src="https://img.youtube.com/vi/AdfTSnQpQqs/maxresdefault.jpg" width="720" alt="StepCAD video on YouTube"/>
+  </a>
+</div>
 
 ---
 
